@@ -15,7 +15,7 @@ And finally we started creating the data base, with SQL-DDL.
 In this second part of the project we used the SQL-DML to do some Queries / Selects , and also create some Packages to manipulate the data base.
 
 # Team
-Daniel Nunes - 49467
-Inês Gonçalves - 49493
-João Rangel - 47982
-Manuel Tovar - 49522
+- Daniel Nunes - 49467
+- Inês Gonçalves - 49493
+- João Rangel - 47982
+- Manuel Tovar - 49522
